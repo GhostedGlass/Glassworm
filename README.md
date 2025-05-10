@@ -29,7 +29,9 @@ Glassworm is a small, standalone script hub designed for a variety of cheats and
 ## Important Notes
 
 -> Glassworm is a **standalone script hub** and not designed to be integrated into existing exploit frameworks.
+
 -> All features can be toggled on or off individually for your convenience.
+
 -> The script is intended to enhance your gameplay experience with various fun and useful cheats.
 
 Enjoy exploiting with Glassworm!
