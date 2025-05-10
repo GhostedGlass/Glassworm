@@ -31,7 +31,9 @@ Glassworm is a small, standalone script hub designed for a variety of cheats and
 Glassworm is designed with user convenience and reliability in mind. Unlike many other script hubs, Glassworm stands out because:
 
 -> **Thorough Testing**: Every feature in Glassworm is rigorously tested to ensure it works flawlessly before being published. We pride ourselves on providing a reliable, bug-free experience.
+
 -> **No Key System**: We believe in simplicity. You don't need to worry about obtaining keys or dealing with frustrating registration processes. Glassworm is ready to use right out of the box.
+
 -> **Lightweight**: Unlike bloated script hubs that are full of unnecessary features, Glassworm focuses on the essentials, providing you with a clean and efficient toolset.
 
 ## Important Notes
