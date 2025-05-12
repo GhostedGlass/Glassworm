@@ -2,6 +2,24 @@
 
 Glassworm is a small, standalone script hub designed for a variety of cheats and enhancements in Roblox games. It comes equipped with multiple useful features such as flying, noclip, god mode, teleportation, and more. This script is intended for users who want a simple and effective tool for exploiting in Roblox without the need for complex integration.
 
+## Update 1.0.5 (13/05/2025)
+What's new?
+-> Reworked SimpleESP (Works better now, adds the ESP to players who joined while the ESP was on, but chews up more performance)
+-> Added an FPS counter
+-> Added a in-server player counter
+
+## What's next?
+
+I have a lot of work to do (shockingly, life exists outside Roblox), so don't expect me to be grinding updates daily. That said, there are a few things I *do* want to add in the near future, assuming I don't spontaneously combust from caffeine and burnout first.
+
+At some point, I'll switch to a better-looking UI library. The current one works, but let's be honest: it's not winning any design awards. Beyond that, here’s what I’ve got in mind: 
+
+-> Add basic role detection for MM2
+
+-> Maybe throw in a player list with distance, team, or whatever info is actually helpful  
+
+All of this is meant to stay lightweight, useful, and not turn into a spaghetti mess. Got ideas? Throw them at me, (discord: ghost.glass) just don't expect them to be added if they suck.
+
 ## Features
 
 | **Feature**       | **Description**                                                                                           |
