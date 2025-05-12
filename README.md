@@ -20,6 +20,11 @@ Glassworm is a small, standalone script hub designed for a variety of cheats and
 | **SimpleESP**     | Highlights players with a white color. Teams are colored according to their respective team colors.       |
 | **Spinner**       | Spins your character incredibly fast for fun.                                                             |
 | **TeleportTo**    | Teleport to a selected player from the game.                                                              |
+| **Spy**           | Teleport behind a selected player, and stay behind them even if they move.                                |
+| **Rejoin**        | Rejoin your server.                                                                                       |
+| **ServerHop**     | Join a different server of the game.                                                                      |
+| **TimeSet**       | Change the game's hours to day or night. (Or let it be game defined)                                      |
+| **LightNeutralizer**| Remove every lighting setting when toggled.                                                             |
 
 ## How to Use
 
