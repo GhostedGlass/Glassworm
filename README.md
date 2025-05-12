@@ -4,6 +4,7 @@ Glassworm is a small, standalone script hub designed for a variety of cheats and
 
 ## Update 1.0.5 (13/05/2025)
 What's new?
+
 -> Reworked SimpleESP (Works better now, adds the ESP to players who joined while the ESP was on, but chews up more performance)
 
 -> Added an FPS counter
