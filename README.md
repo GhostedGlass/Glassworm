@@ -1,6 +1,6 @@
 # Glassworm
 
-Glassworm is a small, standalone script hub designed for a variety of cheats and enhancements in Roblox games. It comes equipped with multiple useful features such as flying, noclip, god mode, teleportation, and more. This script is intended for users who want a simple and effective tool for exploiting in Roblox without the need for complex integration.
+Glassworm is a small, standalone script hub designed for a variety of cheats and enhancements in Roblox games. It comes equipped with multiple useful features such as flying, noclip, ESP, teleportation, and more. This script is intended for users who want a simple and effective tool for exploiting in Roblox without the need for complex integration.
 
 ## Update 1.0.5 (13/05/2025)
 What's new?
