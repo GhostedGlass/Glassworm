@@ -45,7 +45,6 @@ All of this is meant to stay lightweight, useful, and not turn into a spaghetti 
 | **Rejoin**        | Rejoin your server.                                                                                       |
 | **ServerHop**     | Join a different server of the game.                                                                      |
 | **TimeSet**       | Change the game's hours to day or night. (Or let it be game defined)                                      |
-| **LightNeutralizer**| Remove every lighting setting when toggled.                                                             |
 
 ## How to Use
 
