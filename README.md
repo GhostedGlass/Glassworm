@@ -19,7 +19,7 @@ At some point, I'll switch to a better-looking UI library. The current one works
 
 -> Add basic role detection for MM2
 
--> Maybe throw in a player list with distance, team, or whatever info is actually helpful  
+-> (Originally there was more but the other ideas just felt useless)
 
 All of this is meant to stay lightweight, useful, and not turn into a spaghetti mess. Got ideas? Throw them at me, (discord: ghost.glass) just don't expect them to be added if they suck.
 
