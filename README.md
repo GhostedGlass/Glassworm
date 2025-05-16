@@ -33,7 +33,6 @@ All of this is meant to stay lightweight, useful, and not turn into a spaghetti 
 | **Noclip**        | Pass through walls and objects without collision.                                                         |
 | **WalkSpeed**     | Modify your walking speed.                                                                                |
 | **JumpPower**     | Change the height of your jumps.                                                                          |
-| **GodMode**       | When damaged, the script gives you health back, but it doesn’t prevent death.                             |
 | **AntiRagdoll**   | Prevents your character from ragdolling (flopping over) when hit.                                         |
 | **AntiSit**       | Disables the sit animation so your character cannot sit.                                                  |
 | **AntiAFK**       | Prevents you from being kicked for being idle (AFK).                                                      |
